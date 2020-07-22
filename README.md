@@ -13,3 +13,4 @@
  - Numpy
 
  
+ ### To use the application download the exe file on your PC and install it.
